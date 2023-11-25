@@ -10,7 +10,8 @@ namespace TestGit.API.Controllers
 
         public void Get()
         {
-
+            var a = "hello";
+            var a1  = "hello";
         }
     }
 }
